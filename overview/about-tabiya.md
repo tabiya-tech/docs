@@ -6,7 +6,7 @@ description: >-
 
 # About Tabiya
 
-<figure><img src="../.gitbook/assets/Tabiya_Stack_Transparent.png" alt="" width="375"><figcaption><p>We aim to develop open-source technology and practical solutions to connect jobseekers with opportunities. The foundation of our work are inclusive livelihoods taxonomies upon which partners can build applications that empower jobseekers.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tabiya_Stack_Transparent.png" alt="" width="375"><figcaption><p>We aim to develop open-source technology and practical solutions to connect jobseekers with opportunities. The foundation of our work is a set of inclusive livelihoods taxonomies upon which partners can build applications that empower jobseekers.</p></figcaption></figure>
 
 ## Our Mission
 
