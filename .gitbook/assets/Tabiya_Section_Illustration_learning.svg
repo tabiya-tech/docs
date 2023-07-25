@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #00ff91;
+      }
+
+      .cls-3 {
+        fill: #022147;
+      }
+
+      .cls-4 {
+        fill: url(#Unbenannter_Verlauf_41);
+      }
+
+      .cls-5 {
+        fill: #fff;
+        opacity: .8;
+      }
+    </style>
+    <radialGradient id="Unbenannter_Verlauf_41" data-name="Unbenannter Verlauf 41" cx="36" cy="36" fx="36" fy="36" r="27" gradientUnits="userSpaceOnUse">
+      <stop offset=".76" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".7"/>
+    </radialGradient>
+  </defs>
+  <g id="xmain">
+    <g>
+      <circle class="cls-4" cx="36" cy="36" r="27"/>
+      <circle class="cls-5" cx="36" cy="36" r="18.01"/>
+      <circle class="cls-2" cx="36" cy="22.49" r="4.5"/>
+      <path class="cls-3" d="m45,35.99c0,4.97-4.03,9-9,9s-9-4.03-9-9h18Z"/>
+      <path class="cls-3" d="m18,62.99c0-9.94,8.06-18,18-18s18,8.06,18,18H18Z"/>
+      <rect class="cls-1" width="72" height="72"/>
+      <path class="cls-3" d="m40.5,31.49c0,2.49-2.01,4.5-4.5,4.5s-4.5-2.01-4.5-4.5h9Z"/>
+    </g>
+  </g>
+</svg>

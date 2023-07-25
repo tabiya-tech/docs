@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_16-2);
+      }
+
+      .cls-3 {
+        fill: #00ff91;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #022147;
+      }
+
+      .cls-5 {
+        opacity: .2;
+      }
+
+      .cls-6 {
+        fill: url(#Unbenannter_Verlauf_16);
+      }
+    </style>
+    <linearGradient id="Unbenannter_Verlauf_16" data-name="Unbenannter Verlauf 16" x1="22.5" y1="63" x2="22.5" y2="9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#151f42" stop-opacity=".5"/>
+      <stop offset=".87" stop-color="#151f42" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_16-2" data-name="Unbenannter Verlauf 16" x1="54" x2="54" y2="27" xlink:href="#Unbenannter_Verlauf_16"/>
+  </defs>
+  <g id="xmain">
+    <g>
+      <rect class="cls-1" width="72" height="72"/>
+      <path class="cls-5" d="m13.5,63c-2.49,0-4.5-2.01-4.5-4.5v-18c0-2.49,2.01-4.5,4.5-4.5s4.5,2.01,4.5,4.5v18c0,2.49-2.01,4.5-4.5,4.5Z"/>
+      <path class="cls-6" d="m22.5,63c-2.49,0-4.5-2.01-4.5-4.5V13.5c0-2.49,2.01-4.5,4.5-4.5s4.5,2.01,4.5,4.5v45c0,2.49-2.01,4.5-4.5,4.5Z"/>
+      <path class="cls-2" d="m45,27v27c0,4.97,4.03,9,9,9s9-4.03,9-9v-27h-18Z"/>
+      <path class="cls-5" d="m27,45v9c0,4.97,4.03,9,9,9s9-4.03,9-9v-9h-18Z"/>
+      <circle class="cls-4" cx="13.5" cy="40.5" r="4.5"/>
+      <circle class="cls-3" cx="58.5" cy="13.5" r="4.5"/>
+      <circle class="cls-4" cx="22.5" cy="13.5" r="4.5"/>
+      <circle class="cls-4" cx="36" cy="27" r="9"/>
+      <circle class="cls-4" cx="54" cy="27" r="9"/>
+      <circle class="cls-4" cx="36" cy="45" r="9"/>
+      <circle class="cls-4" cx="49.5" cy="40.5" r="4.5"/>
+    </g>
+  </g>
+</svg>
