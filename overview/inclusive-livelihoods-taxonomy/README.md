@@ -7,11 +7,7 @@ description: >-
 
 # Inclusive Livelihoods Taxonomy
 
-<figure><img src="../.gitbook/assets/layer4_lessheight.png" alt="Image of a stack, with the bottom layer (taxonomies) highlighted." width="375"><figcaption><p>An inclusive reference taxonomy is the foundation for governments, nonprofits, and other actors to provide effective guidance on potential career pathways.</p></figcaption></figure>
-
-{% hint style="warning" %}
-Please note that this document is highly preliminary work in progress.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/layer4_lessheight.png" alt="Image of a stack, with the bottom layer (taxonomies) highlighted." width="375"><figcaption><p>An inclusive reference taxonomy is the foundation for governments, nonprofits, and other actors to provide effective guidance on potential career pathways.</p></figcaption></figure>
 
 The motivation for our work towards creating more inclusive livelihoods taxonomies is described well by this quote from one our key partners:
 
@@ -32,11 +28,11 @@ This involves two related efforts:
 
 ***
 
-The first objective will be accomplished through social science research and primary data collection following a common methodology described outlined below. The second objective will be accomplished by creating an inclusive reference taxonomy that partners can adapt and build upon. Our reference taxonomy can be accessed, adapted, and updated through our [Open Taxonomy Platform](open-taxonomy-platform.md).
+The first objective will be accomplished through social science research and primary data collection following a common methodology described outlined below. The second objective will be accomplished by creating an inclusive reference taxonomy that partners can adapt and build upon. Our reference taxonomy can be accessed, adapted, and updated through our [Open Taxonomy Platform](../open-taxonomy-platform.md).
 
 ## Outcome: An Inclusive Reference Taxonomy as Basis for Labor Market Intermediation and Analysis
 
-Different labor market actors need to speak the same “language” – they need to use a common reference taxonomy for the labor market. This reference taxonomy is similar to a map of the labor market. It describe the universe of jobs in an economy and the anatomy of each job – the mix of skills, competences, qualifications required for the job.&#x20;
+Different labor market actors need to speak the same “language” – they need to use a common reference taxonomy for the labor market. This reference taxonomy is similar to a map of the labor market. It describes the universe of jobs in an economy and the anatomy of each job – the mix of skills, competences, qualifications required for the job.&#x20;
 
 This taxonomy is the foundation for governments, nonprofits, and other actors to provide effective guidance on potential career pathways. A reference taxonomy in labor markets is critical because it offers a common language for understanding, categorizing, and linking different aspects of labor market information. It is essentially a structured system of classification that aids in the interpretation and analysis of vast and diverse data sets in the labor market.&#x20;
 
@@ -101,8 +97,3 @@ Within these categories, we exclude the following activities:
 \
 \
 \
-
-
-{% hint style="info" %}
-To be completed
-{% endhint %}
