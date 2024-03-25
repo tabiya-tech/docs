@@ -1,5 +1,8 @@
 ---
-description: A Primer on Labor Market Dynamics and Information Frictions in Low-
+description: >-
+  Tabiya's current work focuses on creating digital public goods with youth
+  employment partners in Sub Saharan Africa. Here we provide an overview of
+  labor market dynamics in this context.
 ---
 
 # Labor Markets in Sub Saharan Africa

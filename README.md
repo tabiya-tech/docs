@@ -9,5 +9,5 @@ This website provides an overview of [our work](overview/about-tabiya.md), the [
 If you have any questions or comments, please do not hesitate to reach out via [email](mailto:hi@tabiya.tech). You can also create an [issue](https://github.com/tabiya-tech/docs/issues) in the [Github repository](https://github.com/tabiya-tech/docs/) that hosts this documentation.
 
 {% hint style="warning" %}
-All documents here represent highly preliminary work in progress.
+All documents are work in progress.
 {% endhint %}
