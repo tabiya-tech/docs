@@ -1,4 +1,8 @@
-# Sub-Saharan Labour Markets
+---
+description: A Primer on Labor Market Dynamics and Information Frictions in Low-
+---
+
+# Labor Markets in Sub Saharan Africa
 
 Labour markets in low- and middle- income countries are characterised by a dearth of quality formal jobs (Fields, 2011). This leads to high rates of formal unemployment in some countries, and in others, to large numbers of workers taking insecure jobs with very low pay. In either circumstance, many labour market participants in low and middle income countries struggle to earn decent, steady incomes despite being willing and able to work. This contributes to high rates of poverty and exploitative working arrangements without labour protections.&#x20;
 
