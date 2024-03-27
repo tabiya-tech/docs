@@ -61,16 +61,20 @@ One of the most widely used frameworks to think about economic activity in a str
 
 However, there are several significant areas of human capital investment and productivity that fall outside this boundary, such as household work for own production (e.g., cooking, cleaning, and childcare), volunteer work, and informal work. These activities form important parts of individual livelihoods and contribute significantly to human capital for millions of people around the world, but  are often undervalued or ignored because they do not involve direct monetary transactions.
 
-Not counting the human capital in these "unseen" parts of the economy can limit individual agency in several ways:
+<details>
+
+<summary>Not making visible and usable human capital from the "unseen" economy can limit human agency in at least four ways</summary>
 
 1. **Under-valuation of Skills and Experience**: Many skills and experiences gained in these unseen areas of the economy are valuable and transferable. For example, managing a household requires skills in budgeting, logistics, negotiation, and multitasking. However, if these activities are not recognized as productive, valuable work, people (typically women, who disproportionately take on unpaid household work) who have spent their time in these areas may find it harder to transition into paid employment or may not receive fair compensation for the skills they've developed.
 2. **Limited Economic Opportunities**: By not recognizing and compensating these activities, individuals engaged in them are often left without financial resources, limiting their ability to invest in themselves (like getting education or starting a business). This situation can contribute to income inequality, poverty, and diminished social mobility, further restricting individual agency.
 3. **Impediment to Policy Recognition**: If these activities are not counted in official economic measures, they are less likely to be considered in policy decisions. For example, policies designed to support workers often focus on those in paid employment and may overlook the needs of people who are engaged in unpaid work. This lack of policy recognition can limit access to support structures like social security, healthcare, or labor protections.
 4. **Reinforcement of Gender Inequalities**: Globally, women tend to do more unpaid work than men, including caregiving and household chores. The undervaluing of this work reinforces gender inequality by limiting women's time and opportunities to participate in paid work or other activities that could enhance their skills and expand their options.
 
+</details>
+
 Recognizing and accounting for the human capital in the unseen parts of the economy is vital for accurately representing people's contributions to the economy, and providing a basis for policies that protect and support all forms of work, thereby enhancing individual agency.
 
-## Methodological Framework
+## Overall Approach
 
 ### “Seen” and “Unseen” Economy: The System of National Accounts and the Production Boundary
 
