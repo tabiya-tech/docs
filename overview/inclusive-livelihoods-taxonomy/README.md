@@ -1,8 +1,7 @@
 ---
 description: >-
   We aim to make visible and usable the human capital of everyone in an economy.
-  This document outlines the approach and methodology that we are using across
-  countries.
+  This page provides a high-level overview.
 ---
 
 # Inclusive Livelihoods Taxonomy
