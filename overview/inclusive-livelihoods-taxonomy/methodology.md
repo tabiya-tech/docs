@@ -6,7 +6,9 @@ description: >-
 
 # Methodology
 
-
+{% hint style="danger" %}
+This page is work in progress
+{% endhint %}
 
 ## Motivation of the Methodology
 
