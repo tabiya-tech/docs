@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentation Overview](README.md)
+* [Welcome](README.md)
 
 ## Overview
 
