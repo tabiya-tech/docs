@@ -8,11 +8,9 @@ description: >-
 
 <figure><picture><source srcset=".gitbook/assets/Tabiya_Logo_RGB_Monochrome_ImageWord_Dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Tabiya_Logo_RGB_Chromatic_ImageWord.png" alt="" width="375"></picture><figcaption></figcaption></figure>
 
-Tabiya creates open-source software, models and standards to help tackle the global youth employment challenge.
+Tabiya creates open-source software, models and standards to help tackle the global youth employment challenge. We foster research, coordination, and harmonization among partners that create learning and career pathways. Our vision is to unlock human capital and empower people in informal and formal labor markets.&#x20;
 
-We foster research, coordination, and harmonization among partners that create learning and career pathways.&#x20;
-
-Our vision is to unlock human capital and empower people in informal and formal labor markets.
+We are a non-profit organization that started at the University of Oxford.
 
 ### Discover Tabiya's Work
 
