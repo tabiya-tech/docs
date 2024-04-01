@@ -4,7 +4,7 @@ description: Welcome!
 
 # Documentation Overview
 
-This website provides an overview of [our overall approach](overview/about-tabiya.md), our[ inclusive livelihoods taxonomy](overview/inclusive-livelihoods-taxonomy/), and the [open taxonomy platform](overview/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md) that allows us to adapt and localize versions of the taxonomy for specific contexts.&#x20;
+This website provides an overview of [our overall approach](overview/about-tabiya.md), our[ inclusive livelihoods taxonomy](projects/inclusive-livelihoods-taxonomy/), and the [open taxonomy platform](projects/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md) that allows us to adapt and localize versions of the taxonomy for specific contexts.&#x20;
 
 Each localized taxonomy has a separate documentation:
 
