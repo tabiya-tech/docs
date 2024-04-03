@@ -66,7 +66,13 @@ One key element in the SNA is the concept of the "production boundary." The prod
 
 </details>
 
-However, several significant areas of human capital investment and productivity fall outside this boundary, such as household work for own production (e.g., cooking, cleaning, and childcare), volunteer work, and informal work. These activities form important parts of individual livelihoods and contribute significantly to human capital for millions of people around the world, but  are often undervalued or ignored because they do not involve direct monetary transactions. We call these activities the "unseen economy".
+<figure><img src="../../.gitbook/assets/Screenshot 2024-04-03 at 11.12.54.png" alt=""><figcaption></figcaption></figure>
+
+However, several significant areas of human capital investment and productivity fall outside this boundary, such as household work for own production (e.g., cooking, cleaning, and childcare), volunteer work, and informal work. These activities form important parts of individual livelihoods and contribute significantly to human capital for millions of people around the world, but  are often undervalued or ignored because they do not involve direct monetary transactions. We call these activities the "unseen economy".&#x20;
+
+<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="The &#x22;Unseen&#x22; part of the economy should be made visible to highlight the whole human capital of the economy" class="gitbook-drawing">
+
+Intuitively, "seen" activities are paid, and thus typically considered as work, whether they are formal or informal, if not illegal. "Unseen" activities include all productive activities, such as cooking for a family member, that are unpaid and thus typically not considered as work. One other way to qualify unseen activities is that they are unpaid activities, that one could pay someone else to do. Therefore, it does not include leisure, as one may not pay someone to enjoy leisure activities for them.&#x20;
 
 <details>
 

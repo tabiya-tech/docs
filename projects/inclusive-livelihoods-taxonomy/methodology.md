@@ -10,9 +10,13 @@ description: >-
 This page is work in progress
 {% endhint %}
 
+Tabiya's work on the inclusive livelihoods taxonomy can be divided in two streams of work. First, making sure that the "seen" part of the pre-existing taxonomies such as ISCO and ESCO fit local contexts. Second, broadening existing taxonomies so that they include the unseen part of the economy, namely the activities that are typically not considered as productive and the skills that are associated to them. The first stream of work is thoroughly described for [our work in South-Africa](https://app.gitbook.com/s/eqaMpVpo5R72oRYDCE9R/seen-economy).&#x20;
+
 ## Motivation of the Methodology
 
-Now that Tabiya’s underlying frameworks have been described, the exercise of assigning skills as a human capital proxy for the unseen economy may commence. Tabiya builds on an existing “Counting Women’s Work” literature that assigns a monetary value to the unpaid, productive tasks done by women, generally in their homes. Tabiya’s work departs from this literature twofold. Our first departure lies in our emphasis on the skills gained in the unseen economy. Rather than the attachment of a monetary valuation to unseen economy skills, we use ESCO skills assigned to comparable or adjacent formal sector occupations to “value” unseen economy skills. In this way, the metric of comparison between seen economy occupations and unseen economy activities is skills. Secondly, we account for the entire working age population that participates in unseen economy activities, relative to only women.
+The challenge is the following: Tabiya aims at creating an inclusive taxonomy of livelihoods, while ensuring that this taxonomy is compatible with existing ones such as ISCO or ESCO. Indeed, this allows to ensure that the inclusive taxonomy can be used by institutions that rely on widely-used taxonomies. Along with our partners, we chose to base our work on the European Skills, Competencies, Qualifications and Occupations (ESCO) taxonomy, for [reasons highlighted here](why-esco.md). Consequently, Tabiya's work entails evaluating the inclusiveness of the existing ESCO taxonomy, to then improve this inclusiveness.&#x20;
+
+This work's intellectual underpinning builds upon the "Counting Women's Work" literature, that aims at assigning a monetary value to the tasks done by women, especially in their households. Instead of focusing on monetary values, Tabiya aims to highlight the human capital gained from these tasks. Moreover, Tabiya's work covers all job-seekers, and not just women, although depending on local contexts they may _de facto_ represent the majority of job-seekers.&#x20;
 
 {% hint style="info" %}
 **Counting Women's Work**: The necessity to better understand sex inequalities in the labor market led to the finding that while both men and women work, their work is valued differently, and this differential valuation yields a perceived differential “productive characteristic endowment” amongst sexes that, in turn, drives sex wage disparities for the African case. In particular, men generally perform paid labor market activities, while women perform both paid labor market and unpaid home production activities ([Dinkelman & Ngai, 2022](https://www.aeaweb.org/articles?id=10.1257/jep.36.1.57)). Hence, a literature that seeks to count women’s work has emerged. This literature relies on time-use data to attribute an equivalent labor market wage to home production activities done by women ([Samarasinghe, 1997](https://books.google.co.uk/books?hl=en\&lr=\&id=TGdd8mY3heQC\&oi=fnd\&pg=PA129\&dq=counting+women%27s+work\&ots=7mx1tLfjvK\&sig=dx9mmtD3ZJbOLGHTURnOBr8nlJI\&redir\_esc=y#v=onepage\&q=counting%20women's%20work\&f=false); [Hoskyns and Rai, 2007](https://www.tandfonline.com/doi/full/10.1080/13563460701485268?casa\_token=V92z2s5OCJ4AAAAA%3Ac8Ty5sBz0GYyaJ8RBVbAvmNa7FAycOeVS4sGuxvapqLar8hHoY15BjJO-mAIoBr3-7ut8VHJtZ0VkA); [Donehower, 2018](https://static1.squarespace.com/static/5994a30fe4fcb5d90b6fbeab/t/5bac023d4785d3a47239adb2/1537999437377/CWW+WP4.pdf) and [Abrigo & Francisco-Abrigo, 2019](https://www.econstor.eu/handle/10419/211076)). For the South African case, this work’s results have found that if household work done predominantly by women were valued by its nearest specialized occupation, it would account for half of the nation’s aggregate labor income ([Oosthuizen, 2018](https://static1.squarespace.com/static/5994a30fe4fcb5d90b6fbeab/t/5baee9e8085229c69ad3840b/1538189818384/CWW+WP6.pdf)). Of course, if a given household activity can be equated to a specialized occupation, this implies that this activity comprises similar tasks to those performed in the specialized occupation. Then, by definition, the fact that tasks are an output of the application of a skill implies that at least some skills used outside of the market are comparable to those used in the market.
@@ -20,13 +24,13 @@ Now that Tabiya’s underlying frameworks have been described, the exercise of a
 
 ### Making Visible the "Unseen Economy"
 
-For the “unseen economy,” i.e. activities outside of the specific SNA production boundary, we rely on identifying and classifying productive activities according to the [International Classification of Activities for Time Use Statistics (ICATUS)](https://unstats.un.org/unsd/classifications/Family/Detail/2083).&#x20;
+For the “unseen economy,” i.e. activities outside of the specific SNA production boundary, we needed to rely on an existing classification of all time-uses and tasks one may gain human capital from. Therefore, our works builds on the  [International Classification of Activities for Time Use Statistics (ICATUS)](https://unstats.un.org/unsd/classifications/Family/Detail/2083) taxonomy, which lists all time uses someone may have throughout the day. ICATUS represents the internationally applicable classifications of activities that people engage in during their 24-hour days. Countries and regions, including South Africa, Ethiopia, and Ghana, have used either this ICATUS framework in their national data collection efforts.&#x20;
 
-While ISCO/ESCO occupations and, in turn, their skills are well documented due in part to their formalization and organization within the economy, unseen economy activities do not enjoy the same visibility in the labor market. Therefore, to glean as much information as possible regarding the nature of activities that comprise the unseen economy, we focus on comprehensive and standard time use survey data. ICATUS represents the internationally applicable classifications of activities that people engage in during their 24-hour days. Countries and regions, including South Africa, Ethiopia, and Ghana, have used either this ICATUS framework in their national data collection efforts.&#x20;
+ICATUS is made up of three levels. The first digit level of disaggregation (highest level of aggregation) is called the major division, the second digit level is called the division level, and the third digit level, which is the most granular level, is called the group level. We first start by comparing ICATUS with the System of National Account, to define the bundaries of the "seen" and the "unseen" economies.&#x20;
 
-ICATUS is made up of three levels. The first digit level of disaggregation (highest level of aggregation) is called the major division, the second digit level is called the division level, and the third digit level, which is the most granular level, is called the group level.&#x20;
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-We consider the following ICATUS major division activities to encompass unseen economy:&#x20;
+Based on the System of National Account, we thus consider the following ICATUS major division activities to encompass unseen economy:&#x20;
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>ICATUS Division 3</strong></td><td><em>Unpaid domestic services for household and family members;</em></td><td></td></tr><tr><td><strong>ICATUS Division 4</strong></td><td><em>Unpaid caregiving services for household and family members;</em></td><td></td></tr><tr><td><strong>ICATUS Division 5</strong></td><td><em>Unpaid volunteer, trainee and other unpaid work.</em></td><td></td></tr></tbody></table>
 
@@ -36,9 +40,7 @@ Within these categories, we exclude the following activities:
 
 ### Matching unseen ICATUS activities to the ESCO framework&#x20;
 
-Ultimately, Tabiya conceptualizes a framework that links the most granular level of unseen economy ICATUS activities (3-digit level) to a set of non-exhaustive candidate ESCO skills and knowledge tags per ICATUS Activity. ICATUS 3 digit level activities comprise more specific activities that lie within ICATUS Divisions Three, Four, and Five. For example, “Preparing meals/snacks'' is a Group Level Activity that falls within the Division 3 of ICATUS, namely Unpaid domestic services for household and family members. In addition, at the Group Level, ICATUS includes a definition of each activity, and a non-exhaustive list of the tasks that each activity includes and does not include. Finally, ICATUS presents at least one example of each Group Level Activity. The relation of ICATUS to the South African Time Use Survey and the International Labour Organisation’s Forms of work is shown below. From this, it is evident that countries use the ICATUS taxonomy as a skeleton that they slightly amend their time use surveys from. Hence, one of the desirability of the ICATUS Framework for our purposes is its amenability to various national contexts’ time use surveys.
-
-<figure><img src="https://lh7-us.googleusercontent.com/COJgAXFT1GUUeXSnMie6s5wrFu0URCXWr5jdyl3ew_WXrHJ4l-lRfD_BMzYD4M7OBRA6cuCCUrRMjc_QRDjwkMqK1rm2HWbkRkD5FehmfeH7tgE6Z3_LnEsRrTzuYopLCkDURVbJ6GqCH-vBSDzn8cE" alt=""><figcaption></figcaption></figure>
+Once ICATUS activities have been associated with the "unseen" part of the economy, the challenge is to make sure the unseen part of our inclusive taxonomy follow the same structure as the existing ESCO taxonomy. Namely, we need to assign skills to the ICATUS activities forming the unseen part of the economy. Therefore, Tabiya conceptualizes a framework that links the most granular level of unseen economy ICATUS activities (3-digit level) to a set of non-exhaustive candidate ESCO skills and knowledge tags per ICATUS Activity. ICATUS 3 digit level activities comprise more specific activities that lie within ICATUS Divisions Three, Four, and Five. For example, “Preparing meals/snacks'' is a Group Level Activity that falls within the Division 3 of ICATUS, namely Unpaid domestic services for household and family members. In addition, at the Group Level, ICATUS includes a definition of each activity, and a non-exhaustive list of the tasks that each activity includes and does not include. Finally, ICATUS presents at least one example of each Group Level Activity. The relation of ICATUS to the South African Time Use Survey and the International Labour Organisation’s Forms of work is shown below. From this, it is evident that countries use the ICATUS taxonomy as a skeleton that they slightly amend their time use surveys from. Hence, one of the desirability of the ICATUS Framework for our purposes is its amenability to various national contexts’ time use surveys.
 
 The ESCO taxonomy is made up of a set of occupations at level five or lower that are derived from the four ISCO-08 occupations hierarchy. For the purpose of the Tabiya Framework, we use only ESCO occupations at level five or lower for our analysis, since this provides the desirable granularity and metadata to adequately link ESCO to ICATUS. The ESCO taxonomy provides a brief description of each occupation it comprises, the occupation’s alternative labels as well as access to regulatory information pertaining to the occupation. What makes the ESCO taxonomy particularly desirable are the skills and competences it assigns to each occupation at level five or lower. These skills and competences include a predetermined list of essential and optional skills and competences, and a list of essential and optional knowledge required to perform a given occupation.&#x20;
 
@@ -48,7 +50,7 @@ The assignment of ESCO occupations to ICATUS activities is based on the relative
 
 Once the ICATUS to ESCO occupations match is done and verified, the next stage of the Tabiya framework formulation can commence. By design, the ESCO taxonomy pre-assigns skills to each ESCO occupation at disaggregation level five and below. Thus, we exploit this structure for the Tabiya framework. In particular, once ICATUS activities are matched to ESCO Occupations, we adopt the pre-assigned ESCO skills as the first set of candidate skills assigned to each unseen economy ICATUS activity. Once duplicate skills are removed, each ICATUS activity now has a comprehensive list of skills assigned to it.  The procedure is shown below:
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Matching process from ICATUS activitis to ESCO skills" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (3).svg" alt="Matching process from ICATUS activitis to ESCO skills" class="gitbook-drawing">
 
 ## Reducing the Candidate List of Skills
 
@@ -86,15 +88,4 @@ Applying this rule proved tricky, as it highlighted the complexity of the ESCO t
 
 \
 This makes up the generalisable unseen economy framework methodology. From this candidate list of skills associated with each unseen economy ICATUS activity, differing contexts can begin to localize this framework.
-
-\
-\
-\
-
-
-
-
-
-
-
 
