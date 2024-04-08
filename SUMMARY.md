@@ -15,7 +15,6 @@
   * [Lessons Learned](projects/inclusive-livelihoods-taxonomy/lessons-learned.md)
   * [Open Taxonomy Platform](projects/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
 * [Compass](https://docs.tabiya.org/compass/)
-* [Page](projects/page.md)
 
 ## Localized Taxonomies
 
