@@ -8,8 +8,8 @@ description: >-
 
 ## ESCO vs O\*Net
 
-{% hint style="danger" %}
-This section will be filled promptly.&#x20;
+{% hint style="info" %}
+Under revision
 {% endhint %}
 
 ## ICATUS Level Choice
