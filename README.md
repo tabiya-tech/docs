@@ -1,7 +1,7 @@
 ---
 description: >-
   Welcome to Tabiya docs! This collection of documents provides an overview of
-  our overall approach and our ongoing projects.
+  our overall approach and our work.
 ---
 
 # Welcome
