@@ -1,8 +1,8 @@
 ---
+icon: info
 description: >-
   In the next decade, about 1 billion young people will enter the labor force.
   We want to empower them with better data.
-icon: layer-group
 ---
 
 # About Tabiya
