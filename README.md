@@ -2,6 +2,7 @@
 description: >-
   Welcome to Tabiya docs! This collection of documents provides an overview of
   our overall approach and our work.
+icon: arrows-to-circle
 ---
 
 # Welcome

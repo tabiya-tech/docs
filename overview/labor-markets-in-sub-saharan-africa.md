@@ -3,6 +3,7 @@ description: >-
   Tabiya's current work focuses on creating digital public goods with youth
   employment partners in Sub Saharan Africa. Here we provide an overview of
   labor market dynamics in this context.
+icon: info
 ---
 
 # Labor Markets in Sub Saharan Africa

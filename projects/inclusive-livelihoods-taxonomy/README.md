@@ -2,6 +2,7 @@
 description: >-
   We aim to make visible and usable the human capital of everyone in an economy.
   This page provides a high-level overview.
+icon: map
 ---
 
 # Inclusive Livelihoods Taxonomy
