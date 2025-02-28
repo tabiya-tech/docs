@@ -14,7 +14,8 @@
   * [Why ESCO?](projects/inclusive-livelihoods-taxonomy/why-esco.md)
   * [Lessons Learned](projects/inclusive-livelihoods-taxonomy/lessons-learned.md)
   * [Open Taxonomy Platform](projects/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
-* [Compass](projects/compass.md)
+* [Compass](projects/compass/README.md)
+  * [Page 1](projects/compass/page-1.md)
 
 ## Localized Taxonomies
 
