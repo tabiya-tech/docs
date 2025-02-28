@@ -15,7 +15,7 @@ layout:
 
 # Compass Overview
 
-<figure><picture><source srcset=".gitbook/assets/compass_logo_web_light.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/compass_logo_web_dark.png" alt="Compass by Tabiya logo" width="339"></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../../.gitbook/assets/compass_logo_web_light.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/compass_logo_web_dark.png" alt="Compass by Tabiya logo" width="339"></picture><figcaption></figcaption></figure>
 
 Compass is an innovative, AI-powered chatbot designed to revolutionize the way a young person identifies, articulates, and showcases their skills. Developed by Tabiya, Compass is a personal career assistant, helping youth uncover hidden talents and match them with the best opportunities in the job market.
 
@@ -68,7 +68,7 @@ Compass is designed as a digital public good:&#x20;
 
 We welcome partnerships and collaborations to further develop and implement Compass:&#x20;
 
-* For inquiries about supporting or implementing Compass, connect with us [here](https://form.typeform.com/to/rzvG7kiL?typeform-source=compass.tabiya.org)&#x20;
+* For inquiries about supporting or implementing Compass, connect with us [here](https://go.tabiya.org/contact)&#x20;
 * To learn more about our current projects and future plans, visit [https://www.tabiya.org](https://www.tabiya.org/)&#x20;
 * Follow our progress and join the conversation on [https://www.linkedin.com/company/tabiya](https://www.linkedin.com/company/tabiya) &#x20;
 
@@ -76,4 +76,4 @@ Together, we can leverage the power of AI to create more inclusive and efficient
 
 ## Funders and Partners
 
-<figure><img src=".gitbook/assets/Screenshot 2024-09-02 at 15.21.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-02 at 15.21.28.png" alt=""><figcaption></figcaption></figure>
