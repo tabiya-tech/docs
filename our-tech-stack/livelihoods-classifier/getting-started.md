@@ -2,8 +2,7 @@
 
 ## Installation
 
-Prerequisites\
-
+Prerequisites\\
 
 * A recent version of [git](https://git-scm.com/) (e.g. ^2.37 )
 * [Python 3.10 or higher](https://www.python.org/downloads/)
@@ -140,7 +139,7 @@ extracted = pipeline(text)
 print(extracted)
 ```
 
-&#x20;You should see the following output:
+You should see the following output:
 
 ```javascript
 [
@@ -161,8 +160,6 @@ print(results.output)
 ```
 
 This class inherits from the `EntityLinker`, with the main difference being the `'entity_type'` flag.
-
-{% include ".gitbook/includes/be-sure-to-specify-evaluati....md" %}
 
 {% hint style="warning" %}
 If you want to run evaluations on custom datasets, you will need to make modifications to the `_load_dataset` function, located on the `evaluation.py` file. Please refer to the original evaluation datasets as described [here](datasets.md). If you have any trouble, please open an issue on [GitHub](https://github.com/tabiya-tech/tabiya-livelihoods-classifier/issues).

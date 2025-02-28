@@ -46,9 +46,7 @@ Evaluator class that inherits the Entity Linker. It computes the queries, corpus
 
 ### Initialization Parameters
 
-{% include ".gitbook/includes/be-sure-to-specify-evaluati....md" %}
-
-entity\_type: str  Occupation, Skill, or Qualification to determine the exact evaluation set to be used.
+entity\_type: str Occupation, Skill, or Qualification to determine the exact evaluation set to be used.
 
 ## `util/transformersCRF.py`
 
@@ -60,13 +58,11 @@ A class that creates a linear Conditional Random Field model.
 
 ### class AutoModelForCrfPretrainedConfig(PretrainedConfig)
 
-Configuration class that inherits from [PretrainedConfig ](https://huggingface.co/docs/transformers/en/main_classes/configuration#transformers.PretrainedConfig)HuggingFace class.&#x20;
+Configuration class that inherits from [PretrainedConfig ](https://huggingface.co/docs/transformers/en/main_classes/configuration#transformers.PretrainedConfig)HuggingFace class.
 
 ### class AutoModelCrfForNer(PreTrainedModel)
 
 A general class that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class. The model\_type is detected automatically.
-
-{% include ".gitbook/includes/initialization-parameters.md" %}
 
 model\_type: str Possible options include `BertCrfForNer`, `RobertaCrfForNer` and `DebertaCrfForNer.`
 
@@ -76,15 +72,13 @@ Custom class used for configuring BERT for CRF.
 
 ### class BertCrfForNer(PreTrainedModel)
 
-BERT-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.&#x20;
+BERT-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.
 
-{% include ".gitbook/includes/initialization-parameters.md" %}
-
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
 
 #### Forward Parameters
 
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for&#x20;
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for
 
 `special_tokens_mask` default: None. We use this option from HuggingFace as a small hack to implement the special\_mask needed for CRF.
 
@@ -94,15 +88,13 @@ Custom class used for configuring RoBERTa for CRF.
 
 ### class RobertaCrfForNer(PreTrainedModel)
 
-RoBERTa-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.&#x20;
+RoBERTa-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.
 
-{% include ".gitbook/includes/initialization-parameters.md" %}
-
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
 
 #### Forward Parameters
 
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for&#x20;
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for
 
 `special_tokens_mask` default: None. We use this option from HuggingFace as a small hack to implement the special\_mask needed for CRF.
 
@@ -112,15 +104,13 @@ Custom class used for configuring RoBERTa for CRF.
 
 ### class DebertaCrfForNer(PreTrainedModel)
 
-RoBERTa-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.&#x20;
+RoBERTa-based CRF model that inherits from [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) class.
 
-{% include ".gitbook/includes/initialization-parameters.md" %}
-
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel).
 
 #### Forward Parameters
 
-Same as  [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for&#x20;
+Same as [PreTrainedModel HuggingFace](https://huggingface.co/docs/transformers/en/main_classes/model#transformers.PreTrainedModel) except for
 
 `special_tokens_mask` default: None. We use this option from HuggingFace as a small hack to implement the special\_mask needed for CRF.
 

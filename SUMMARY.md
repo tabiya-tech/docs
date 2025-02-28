@@ -22,9 +22,8 @@
   * [Advanced Topics](our-tech-stack/livelihoods-classifier/advanced-topics.md)
   * [Contributing Guide](our-tech-stack/livelihoods-classifier/contributing-guide.md)
   * [FAQs](our-tech-stack/livelihoods-classifier/faqs.md)
-
 * [Compass](our-tech-stack/compass/README.md)
   * [Technical Overview](our-tech-stack/compass/technical-overview.md)
-  * [UX Evaluation](our-tech-stack/compass/ux-evaluation.md)
-  * [UX Testing Discussion Guide](our-tech-stack/compass/ux-testing-discussion-guide.md)
+  * [UX Evaluation](our-tech-stack/compass/ux-evaluation/README.md)
+    * [UX Testing Discussion Guide](our-tech-stack/compass/ux-evaluation/ux-testing-discussion-guide.md)
   * [Roadmap](our-tech-stack/compass/roadmap.md)
