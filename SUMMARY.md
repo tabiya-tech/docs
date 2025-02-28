@@ -14,7 +14,7 @@
   * [Why ESCO?](our-tech-stack/inclusive-livelihoods-taxonomy/why-esco.md)
   * [Lessons Learned](our-tech-stack/inclusive-livelihoods-taxonomy/lessons-learned.md)
   * [Open Taxonomy Platform](our-tech-stack/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
-* [Livelihood Classifier](our-tech-stack/livelihood-classifier.md)
+* [Livelihoods Classifier](our-tech-stack/livelihoods-classifier.md)
 * [Compass](our-tech-stack/compass/README.md)
   * [Technical Overview](our-tech-stack/compass/technical-overview.md)
   * [UX Evaluation](our-tech-stack/compass/ux-evaluation.md)
