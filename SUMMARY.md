@@ -15,7 +15,6 @@
   * [Lessons Learned](projects/inclusive-livelihoods-taxonomy/lessons-learned.md)
   * [Open Taxonomy Platform](projects/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
 * [Compass](projects/compass/README.md)
-  * [Compass Overview](README.md)
   * [Technical Overview](technical-overview.md)
   * [UX Evaluation](ux-evaluation/README.md)
    * [UX Testing Discussion Guide](ux-evaluation/ux-testing-discussion-guide.md)
