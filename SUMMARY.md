@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## Overview <a href="#background" id="background"></a>
+## Overview
 
-* [About Tabiya](background/about-tabiya.md)
-* [Labor Markets in Sub Saharan Africa](background/labor-markets-in-sub-saharan-africa.md)
+* [About Tabiya](overview/about-tabiya.md)
+* [Labor Markets in Sub Saharan Africa](overview/labor-markets-in-sub-saharan-africa.md)
 
 ## Our Tech Stack
 
