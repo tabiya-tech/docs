@@ -49,13 +49,7 @@ Compass breaks down barriers by offering an AI solution that's scalable, afforda
 
 ## Upcoming Features
 
-* **Expanded geographic reach:** Widespread adoption of Compass for use in emerging markets
-* **Multilingual support:** Expand language capabilities to serve diverse populations
-* **Voice integration:** Enable our users to speak to Compass in their local dialects
-* **Portable skills wallet:** Compass skills exploration outputs activated in an interoperable skills wallet
-* **Enhanced features:** Develop more advanced career pathing and skills development recommendations
-* **Integration capabilities:** Create APIs and tools for seamless integration with existing job platforms and career services
-* **Impact measurement:** Implement a multi-site randomized control trial to rigorously estimate impacts
+Our vision for future features and our roadmap [can be found here](roadmap.md).
 
 ## Our Open Source Commitment
 
@@ -70,8 +64,7 @@ Compass is designed as a digital public good:
 We welcome partnerships and collaborations to further develop and implement Compass:
 
 * For inquiries about supporting or implementing Compass, connect with us [here](https://go.tabiya.org/contact)
-* To learn more about our current projects and future plans, visit [https://www.tabiya.org](https://www.tabiya.org/)
-* Follow our progress and join the conversation on [https://www.linkedin.com/company/tabiya](https://www.linkedin.com/company/tabiya)
+* Follow our progress and [join the conversation on Linkedin](https://www.linkedin.com/company/tabiya)
 
 Together, we can leverage the power of AI to create more inclusive and efficient labor markets worldwide.
 
