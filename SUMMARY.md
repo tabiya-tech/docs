@@ -22,6 +22,7 @@
   * [Advanced Topics](our-tech-stack/livelihoods-classifier/advanced-topics.md)
   * [Contributing Guide](our-tech-stack/livelihoods-classifier/contributing-guide.md)
   * [FAQs](our-tech-stack/livelihoods-classifier/faqs.md)
+  * [Demo Video](https://youtu.be/a81HVCF56Io)
 * [Compass](our-tech-stack/compass/README.md)
   * [Technical Overview](our-tech-stack/compass/technical-overview.md)
   * [UX Evaluation](our-tech-stack/compass/ux-evaluation/README.md)
