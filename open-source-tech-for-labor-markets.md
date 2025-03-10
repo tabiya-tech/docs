@@ -6,11 +6,11 @@ icon: box-open
 
 ## The Problem with Proprietary Systems and Vendor Lock-In
 
-Across the world, important government information systems (for employment, education, etc.) have historically been implemented by a handful of proprietary software vendors, leading to high costs and vendor lock-in for public agencies​. [This proprietary control can stifle innovation and limit the adaptability of platforms to local needs ](#user-content-fn-1)[^1]– not to mention straining the budgets of resource-constrained LMIC governments.&#x20;
+Across the world, important government information systems (for employment, education, etc.) have historically been implemented by a handful of proprietary software vendors, leading to high costs and vendor lock-in for public agencies​. This [proprietary control can stifle innovation and limit adaptability](#user-content-fn-1)[^1] of platforms to local needs – not to mention straining the budgets of resource-constrained LMIC governments.&#x20;
 
 ## The Benefits of Open-Source Solutions
 
-**By contrast, adopting open-source software (OSS) solutions allows countries to avoid being locked into a single provider and instead foster local ownership and customization.**[ According to the World Bank](#user-content-fn-1)[^1], implementations in several domains have been “dominated by a few IT vendors” with significant switching costs, but OSS offers a way to “facilitate efficiency, robustness, security, and interoperability” in these systems. In other words, when the code is open and reusable, each country or organization doesn’t need to reinvent the wheel or pay steep licensing fees for every new project. They can build on proven platforms, share improvements, and focus resources on reaching underserved populations rather than on proprietary licensing.
+**By contrast, adopting open-source software (OSS) solutions allows countries to avoid being locked into a single provider and instead foster local ownership and customization.** According to the World Bank, [implementations in several domains have been “dominated by a few IT vendors” ](#user-content-fn-1)[^1]with significant switching costs, but OSS offers a way to “facilitate efficiency, robustness, security, and interoperability” in these systems. In other words, when the code is open and reusable, each country or organization doesn’t need to reinvent the wheel or pay steep licensing fees for every new project. They can build on proven platforms, share improvements, and focus resources on reaching underserved populations rather than on proprietary licensing.
 
 ### Democratizing Access to Labor Market Tools
 
@@ -31,7 +31,7 @@ Another advantage of open-source labor platforms is transparency and trust. With
 
 ### Fostering Global Innovation and Knowledge Sharing
 
-OSS as a public good drives opportunities for cross-country learning and collaborations. India’s Aadhaar identification system - fully built on open-source tech - has inspired development of initiatives like the [Modular Open Source Identity Platform](https://mosip.io/) (MOSIP) - [which, as of 2023, had scaled across 6 countries with ongoing pilots in 5, ](#user-content-fn-2)[^2]creating a network effect of better practices. &#x20;
+OSS as a public good drives opportunities for cross-country learning and collaborations. India’s Aadhaar identification system - fully built on open-source tech - has inspired development of initiatives like the [Modular Open Source Identity Platform](https://mosip.io/) (MOSIP) - which, [as of 2023](#user-content-fn-2)[^2], had scaled across 6 countries with ongoing pilots in 5, creating a network effect of better practices. &#x20;
 
 ### Open-Source: A Developmental Imperative?
 
