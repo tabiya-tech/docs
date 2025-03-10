@@ -1,5 +1,5 @@
 ---
-icon: id-card
+icon: circle-nodes
 ---
 
 # The Role of Labor Market Intermediation

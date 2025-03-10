@@ -1,5 +1,5 @@
 ---
-icon: digital-ocean
+icon: square-code
 ---
 
 # Digital Platforms, AI, and Open-Source in LMIC Labor Market Intermediation
