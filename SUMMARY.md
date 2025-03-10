@@ -5,7 +5,10 @@
 ## Overview
 
 * [About Tabiya](overview/about-tabiya.md)
-* [Labor Markets in Sub Saharan Africa](overview/labor-markets-in-sub-saharan-africa.md)
+* [The Global Youth Employment Challenge](overview/labor-markets-in-sub-saharan-africa/README.md)
+  * [The Role of Labor Market Intermediation](overview/labor-markets-in-sub-saharan-africa/the-role-of-labor-market-intermediation.md)
+  * [Digital Platforms, AI, and Open-Source in LMIC Labor Market Intermediation](overview/labor-markets-in-sub-saharan-africa/digital-platforms-ai-and-open-source-in-lmic-labor-market-intermediation.md)
+  * [Regional Spotlight: the Sub-Saharan African Labor Market](overview/labor-markets-in-sub-saharan-africa/regional-spotlight-the-sub-saharan-african-labor-market.md)
 
 ## Our Tech Stack
 

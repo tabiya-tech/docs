@@ -1,20 +1,9 @@
 ---
-icon: people-arrows
-description: >-
-  Tabiya's current work focuses on creating digital public goods with youth
-  employment partners in Sub Saharan Africa. Here we provide an overview of
-  labor market dynamics in this context.
+hidden: true
+icon: earth-africa
 ---
 
-# Labor Markets in Sub Saharan Africa
-
-Labour markets in low- and middle- income countries are characterised by a dearth of quality formal jobs (Fields, 2011). This leads to high rates of formal unemployment in some countries, and in others, to large numbers of workers taking insecure jobs with very low pay. In either circumstance, many labour market participants in low and middle income countries struggle to earn decent, steady incomes despite being willing and able to work. This contributes to high rates of poverty and exploitative working arrangements without labour protections.&#x20;
-
-{% embed url="https://ourworldindata.org/grapher/unemployment-rate" %}
-
-This challenge has been exacerbated by the 2008 Financial Crisis and the COVID-19 Economic Crisis, two catastrophic global recessions that destroyed economic value in many countries. Moreover, in Sub-Saharan Africa, demographic pressures, rising youth unemployment and the destruction of manufacturing jobs have exacerbated the unfavourable ratio of workers to formal jobs (McKenzie). From 2023-2033, 1.2 billion youth will become working age and 714 million youth will require job opportunities (World Bank, 2023).
-
-
+# Regional Spotlight: the Sub-Saharan African Labor Market
 
 ## Labour Market Frictions in Sub-Saharan Africa
 
@@ -60,9 +49,4 @@ Jones, S. and Sen, K., 2022. Labour market effects of digital matching platforms
 Mudiriza, G., De Lannoy, A. (2023). Profile of young people not in employment, education or training (NEET) aged 15-24 years in South Africa: an annual update. Cape Town: Southern Africa Labour and Development Research Unit, University of Cape Town. (SALDRU Working Paper Number 298).
 
 Wheeler, L., Garlick, R., Johnson, E., Shaw, P. and Gargano, M., 2022. LinkedIn (to) job opportunities: Experimental evidence from job readiness training. American Economic Journal: Applied Economics, 14(2), pp.101-125.\
-Hensel, L., [Tekleselassie](https://cssh.northeastern.edu/faculty/tsegay-tekleselassie/), T., [Isphording](https://sites.google.com/view/ingoeisphording/about-me), I.,  [Radbruch](https://sites.google.com/site/jonasradbruch01/), J. & [Witte](http://www.marcwitte.com/home), M. 2024. Demand for Feedback and Job Search. Working Paper.\
-\
-
-
-\
-\
+Hensel, L., [Tekleselassie](https://cssh.northeastern.edu/faculty/tsegay-tekleselassie/), T., [Isphording](https://sites.google.com/view/ingoeisphording/about-me), I.,  [Radbruch](https://sites.google.com/site/jonasradbruch01/), J. & [Witte](http://www.marcwitte.com/home), M. 2024. Demand for Feedback and Job Search. Working Paper.
