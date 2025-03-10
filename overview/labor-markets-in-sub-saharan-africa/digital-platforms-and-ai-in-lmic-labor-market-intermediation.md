@@ -1,8 +1,8 @@
 ---
-icon: square-code
+icon: gear-code
 ---
 
-# Digital Platforms, AI, and Open-Source in LMIC Labor Market Intermediation
+# Digital Platforms and AI in LMIC Labor Market Intermediation
 
 ## Digital Job Platforms Expanding Employment Access in LMICs
 
@@ -22,48 +22,13 @@ Artificial intelligence (AI) and data analytics  have exponentially enhanced cap
 * AI tools are also being used to **forecast labor demand** – [France’s “La Bonne Boîte”](https://labonneboite.francetravail.fr/questions-frequentes) uses a predictive algorithm to analyze recruitments from the past 12 months, to predict those for the next 3 months. This data enables jobseekers to identify a shortlist of companies 'with high hiring potential' to help target unsolicited applications. These kinds of analytics improve decision-making for both workers and policymakers: jobseekers get data-driven guidance (for example, which industries are growing or which skills are in demand), while governments obtain real-time labor market intelligence to design better training and employment programs.
 * AI-driven career assistants are enhancing the **personalization of guidance and training** for workers on these platforms. Intelligent career assistants or “job coach” chatbots analyze user profiles, labor market data, and hiring trends to interactively provide tailored job recommendations, upskilling suggestions, and career coaching. However, the jury is still out on the effectiveness of these Ai-enabled career guidance tools. [An evaluation of ](#user-content-fn-7)[^7][Bob Emploi, an online job-search assistance website](#user-content-fn-8)[^8], found null effects across the board on key search and employment outcomes.
 
-### The Shift Towards Skills and Competency-Based Profiling&#x20;
+## The Shift Towards Skills and Competency-Based Profiling&#x20;
 
 Crucially, AI is helping shift digital employment platforms toward **skills-based matching and alignment**. Traditional recruitment focuses heavily on formal qualifications and job titles, which can overlook candidates who have the right skills but non-linear backgrounds. AI allows platforms to parse rich data on hard and soft skills from resumes, online profiles, behavioral assessment and match those to job requirements​.&#x20;
 
 **Advanced job platforms now often include a competency-based matching component:** rather than filtering candidates by degree or past job titles alone, the algorithm considers the full spectrum of technical skills, transferable skills, and even aptitudes. This holistic approach means a job seeker’s coding, language, or teamwork skills (even if self-taught or gained informally) can be recognized and matched to open positions, widening opportunities. It also helps employers discover talent that might be hidden in non-traditional resumes.&#x20;
 
 **Many countries have have expanded traditional labor taxonomies and frameworks to include skills and competencies**. The European Commission's European Skills, Competences, Qualifications and Occupations (ESCO)[ ](#user-content-fn-9)[^9]now defines nearly 13,500 skills mapped to the [ILO's pre-existing ISCO occupational pillars](#user-content-fn-10)[^10]. Frameworks like ESCO and O\*Net, its US-equivalent, provide a holistic mapping of occupations and skills, but have been challenging to localize and apply to more developing/emerging contexts - giving rise to [alternative methodological explorations](#user-content-fn-11)[^11] of leveraging big data from online job vacancies and applicants' profiles in combination with natural language processing (NLP) to extract information on skills and create local taxonomies from scratch.&#x20;
-
-## Open-Source Public Goods for Inclusive Labor Markets
-
-### The Problem with Proprietary Systems and Vendor Lock-In
-
-Across the world, important government information systems (for employment, education, etc.) have historically been implemented by a handful of proprietary software vendors, leading to high costs and vendor lock-in for public agencies​. [This proprietary control can stifle innovation and limit the adaptability of platforms to local needs ](#user-content-fn-12)[^12]– not to mention straining the budgets of resource-constrained LMIC governments.&#x20;
-
-### The Benefits of Open-Source Solutions
-
-**By contrast, adopting open-source software (OSS) solutions allows countries to avoid being locked into a single provider and instead foster local ownership and customization.**[ According to the World Bank](#user-content-fn-12)[^12], implementations in several domains have been “dominated by a few IT vendors” with significant switching costs, but OSS offers a way to “facilitate efficiency, robustness, security, and interoperability” in these systems. In other words, when the code is open and reusable, each country or organization doesn’t need to reinvent the wheel or pay steep licensing fees for every new project. They can build on proven platforms, share improvements, and focus resources on reaching underserved populations rather than on proprietary licensing.
-
-#### Democratizing Access to Labor Market Tools
-
-Open-source digital tools are also key to labor market inclusion - both in terms of drawing contributions from and enabling a wide range of actors and in reaching marginalized population segments.
-
-* An open platform can be modified to accommodate multiple languages, literacy levels, and accessibility needs – critical for reaching rural and marginalized communities in LMICs. Open solutions can be designed to work in low-bandwidth environments or integrate with basic mobile phones, ensuring that even jobseekers without a smartphone or constant internet can access opportunities. This is particularly important with nearly 3 billion people in the world still offline as of 2022.
-* Because the source code is open, solutions can be tailored to cope with irregular power supply, intermittent internet, or older devices commonly found in developing regions. For example, a lightweight version of a job portal could be developed to consume minimal data, or an offline mode could allow users to browse job info without continuous connectivity. By contrast, a proprietary system might not prioritize these LMIC-specific needs if they conflict with the vendor's global business model.
-
-#### Building Collaborative Ecosystems through Open-Source
-
-Open-source digital tools  encourage broader partnership across the public and private sector: local tech communities or social enterprises can contribute modules (for example, an SMS-based interface for areas with low internet coverage) without needing permission from a vendor. By being free and openly available, such platforms lower barriers for small organizations or even community groups to deploy job-matching services in low-income areas.
-
-Governments can mandate open data sharing from these systems (while protecting privacy), enabling researchers, start-ups, or nonprofits to build complementary services – from commute planning for jobseekers to analytics identifying skill gaps in the workforce. In Kenya and Nigeria, for instance, open data on job vacancies and skills demand has allowed innovators to develop third-party apps that target specific communities and industries.
-
-#### Ensuring Equity and Accountability
-
-Another advantage of open-source labor platforms is transparency and trust. With algorithms open to scrutiny, there is greater accountability in how job matches are made or how data is used, which can protect against biases or unfair practices. It also means critical labor market data can remain in the public realm.
-
-#### Fostering Global Innovation and Knowledge Sharing
-
-OSS as a public good drives opportunities for cross-country learning and collaborations. India’s Aadhaar identification system - fully built on open-source tech - has inspired development of initiatives like the [Modular Open Source Identity Platform](https://mosip.io/) (MOSIP) - [which, as of 2023, had scaled across 6 countries with ongoing pilots in 5, ](#user-content-fn-13)[^13]creating a network effect of better practices. &#x20;
-
-#### Open-Source: A Developmental Imperative?
-
-Making digital labor tools open-source prevents proprietary gatekeeping of job information, empowers local innovation, and ensures that the benefits of digital intermediation extend to the hardest-to-reach populations. This ethos of openness means a nonprofit in Africa or a government in South Asia could take a similar tool, adapt it for their context (say, training the algorithm on local labor data), and deploy it for their citizens without starting from scratch. The result is a more level playing field where all countries, regardless of income level, can harness cutting-edge digital intermediation for their labor force.
 
 [^1]: McKenzie, D., & Carranza, E. (2023). _Government policy efforts on job search and intermediation: What works and what should be done better?_ World Bank Blogs. [https://blogs.worldbank.org/en/impactevaluations/government-policy-efforts-job-search-and-intermediation-what-works-and-what](https://blogs.worldbank.org/en/impactevaluations/government-policy-efforts-job-search-and-intermediation-what-works-and-what)
 
@@ -86,7 +51,3 @@ Making digital labor tools open-source prevents proprietary gatekeeping of job i
 [^10]: International Standard Classification of Occupations
 
 [^11]: Escudero, V., Liepmann, H., Boschetti Adamczyk, W., Boehmer, S., Delaporte, I., & International Labour Organization,. (2025). _Developing a new method to uncover skills trends in emerging economies using online data and NLP techniques_. ILO. [https://doi.org/10.54394/HQQX3200](https://doi.org/10.54394/HQQX3200)
-
-[^12]: World Bank. (2019). _Open Source for Global Public Goods_. [https://openknowledge.worldbank.org/entities/publication/c9b2358e-16e0-5144-83fe-e4abe719f073](https://openknowledge.worldbank.org/entities/publication/c9b2358e-16e0-5144-83fe-e4abe719f073)
-
-[^13]: Hariharan, V. (2024, February 13). _Lessons Learned: Reflecting on MOSIP’s Journey to Scale_. Digital Impact Alliance. [https://dial.global/research/lessons-learned-reflecting-mosips-journey-scale/](https://dial.global/research/lessons-learned-reflecting-mosips-journey-scale/)
