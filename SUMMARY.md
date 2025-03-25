@@ -20,6 +20,7 @@
   * [Methodology](our-tech-stack/inclusive-livelihoods-taxonomy/methodology.md)
   * [Why ESCO?](our-tech-stack/inclusive-livelihoods-taxonomy/why-esco.md)
   * [Lessons Learned](our-tech-stack/inclusive-livelihoods-taxonomy/lessons-learned.md)
+  * [Core Version](our-tech-stack/inclusive-livelihoods-taxonomy/core-version.md)
   * [Open Taxonomy Platform](our-tech-stack/inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
 * [Livelihoods Classifier](our-tech-stack/livelihoods-classifier/README.md)
   * [Getting Started](our-tech-stack/livelihoods-classifier/getting-started.md)
