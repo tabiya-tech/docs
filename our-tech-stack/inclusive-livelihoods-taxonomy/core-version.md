@@ -5,7 +5,7 @@ description: >-
   avoids country-specific adaptations.
 ---
 
-# Core Version
+# Core Taxonomy
 
 Our [Inclusive Livelihoods Taxonomy](./) introduces important changes to [ESCO](https://esco.ec.europa.eu/en) to better reflect the livelihoods and economic realities in low- and middle-income countries. This page presents our **standardized Core version, which is not country-specific.** We use our [Taxonomy Management Platform](open-taxonomy-platform.md)  to manage and maintain various adapted and country-specific versions.
 
@@ -13,9 +13,9 @@ Our [Inclusive Livelihoods Taxonomy](./) introduces important changes to [ESCO](
 The Core version of our taxonomy is continuously evolving. Regular updates integrate feedback, corrections, and new insights from our partners to better represent diverse economic activities.
 {% endhint %}
 
-## Tabiya Core Version 1.0.0
+## Version 1.0.0
 
-Version 1.0.0 of the Core version of our taxonomy expands conventional job and skill classifications by:
+Version 1.0.0 of the Core Taxonomy expands conventional job and skill classifications by changing [ESCO v.1.1.1](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/esco-v111) in the following ways:
 
 * **Including New Occupations:** Such as "Micro-entrepreneur," explicitly recognizing self-employed individuals and small-scale entrepreneurial activities.
 * **Capturing Unseen Economic Activities:** Integrating overlooked roles and activities such as caregiving, housework, volunteer work, and informal employment, guided by classifications like ICATUS 2016.
@@ -24,7 +24,7 @@ Version 1.0.0 of the Core version of our taxonomy expands conventional job and s
 
 ### Detailed Release Notes
 
-The latest version includes these specific updates:
+This version builds on [ESCO v1.1.1](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/esco-v111). The latest Tabiya Core taxonomy version includes these specific updates:
 
 * **Added:** New Micro-entrepreneur occupation (code: 5221\_2 uuid: d76f0bac-7145-4acc-a53e-259b96a6346b).
 * **Added:** Unseen economy occupations/activities from the ICATUS 2016 classification:
@@ -58,7 +58,7 @@ Our taxonomy is distributed in a CSV (Comma-Separated Values) format, ensuring e
 * **`skillRelations`:** Explicit relationships linking specific skills to relevant occupations, allowing precise mapping.
 * **`iscoGroup`:** ISCO occupational group codes aligning occupations with international standards.
 
-This format closely follows ESCO’s CSV structure, enhancing interoperability and facilitating easy integration into existing workflows. For detailed technical documentation, refer to the [Tabiya CSV Format Specification](https://github.com/tabiya-tech/taxonomy-model-application/blob/main/backend/Import_Export_CSV_format.md).
+This format closely follows ESCO’s CSV structure, enhancing interoperability and facilitating easy integration into existing workflows. For detailed technical documentation, refer to the [Tabiya CSV Format Specification](core-version.md#csv-file-format-compatible-with-esco).
 
 ## Licensing and Availability
 
