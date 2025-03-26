@@ -1,6 +1,6 @@
 ---
 description: >-
-  The tabiya CSV format is used to import and export data from the Tabiya Open
+  The Tabiya CSV format is used to import and export data from the Tabiya Open
   Taxonomy platform.
 ---
 
