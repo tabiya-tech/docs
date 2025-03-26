@@ -18,7 +18,7 @@ The Core version of our taxonomy is continuously evolving. Regular updates integ
 Version 1.0.0 of the Core Taxonomy expands conventional job and skill classifications by changing [ESCO v.1.1.1](https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/esco-v111) in the following ways:
 
 * **Including New Occupations:** Such as "Micro-entrepreneur," explicitly recognizing self-employed individuals and small-scale entrepreneurial activities.
-* **Capturing Unseen Economic Activities:** Integrating overlooked roles and activities such as caregiving, housework, volunteer work, and informal employment, guided by classifications like ICATUS 2016.
+* **Capturing Unseen Economic Activities:** Integrating overlooked roles and activities such as caregiving, housework, volunteer work, and informal employment, guided by the [International Classification of Activities for Time-Use Statistics (ICATUS) 2016](https://unstats.un.org/unsd/classifications/Family/Detail/2083).
 * **Enhancing Accessibility:** Adding simplified alternative labels and clearer terminology, making the taxonomy more approachable and easy to use.
 * **Ensuring Data Quality:** Regularly refining taxonomy entries by fixing missing labels, removing duplicate records, and standardizing formatting and textual clarity.
 
