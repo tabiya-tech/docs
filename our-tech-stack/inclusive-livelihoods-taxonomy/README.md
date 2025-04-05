@@ -34,6 +34,8 @@ One key element in the SNA is the concept of the "production boundary." The prod
 
 However, many forms of human capital investment and productivity remain outside these traditional boundaries, including household labor, volunteer work, and informal employment. These activities play a crucial role in economic development and individual livelihoods yet remain undervalued because they do not generate direct monetary compensation. We refer to these overlooked activities as the **"unseen economy"**.
 
+<figure><img src="../../.gitbook/assets/expanding_the_map.png" alt=""><figcaption><p>Partners that help young people find jobs typically use a taxonomy to describe the universe of jobs in an economy and the anatomy of each job. Such a “map” of the labor market can help young people find escalators and elevators to better livelihoods. If the map is incomplete or inaccurate, it may limit young people’s ability to find the right jobs. <strong>We aim to expand the map to include the full range of diverse livelihoods that young people pursue, including those in the "unseen economy".</strong></p></figcaption></figure>
+
 ### **Recognizing the "Unseen Economy"**
 
 The "unseen" parts of the economy must be acknowledged to ensure a comprehensive understanding of human capital. **Seen** economic activities typically involve paid labor, whether formal or informal. **Unseen** activities, by contrast, include unpaid but productive work—such as caring for family members or performing household tasks—that could, in theory, be outsourced for payment. Notably, this definition excludes leisure, as one cannot pay someone to engage in leisure on their behalf.
@@ -75,15 +77,7 @@ A well-structured taxonomy provides a common language to categorize, interpret, 
 
 With Tabiya's **Inclusive Livelihoods Taxonomy**, we aim provide a more inclusive map of the labor market – one that includes activities from the "unseen economy." A more inclusive map of the labor market will allow more inclusive matching, the identification of more diverse career and skill development pathways, and richer data analysis. [A more detailed description of our methodology can be found here](methodology.md) and our reference taxonomy can be accessed, adapted, and updated through our [Open Taxonomy Platform](open-taxonomy-platform.md).
 
-<figure><img src="../../.gitbook/assets/expanding_the_map.png" alt=""><figcaption><p>Partners that help young people find jobs typically use a taxonomy to describe the universe of jobs in an economy and the anatomy of each job. Such a “map” of the labor market can help young people find escalators and elevators to better livelihoods. If the map is incomplete or inaccurate, it may limit young people’s ability to find the right jobs. <strong>We aim to expand the map to include the full range of diverse livelihoods that young people pursue, including those in the "unseen economy".</strong></p></figcaption></figure>
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-04-03 at 11.12.54.png" alt=""><figcaption></figcaption></figure>
-
-
-
-<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="The &#x22;Unseen&#x22; part of the economy should be made visible to highlight the whole human capital of the economy" class="gitbook-drawing">
 
