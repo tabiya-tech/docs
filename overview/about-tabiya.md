@@ -1,23 +1,21 @@
 ---
-icon: info
 description: >-
   In the next decade, about 1 billion young people will enter the labor force.
   We want to empower them with better data.
+icon: info
 ---
 
 # About Tabiya
 
 <figure><img src="../.gitbook/assets/Tabiya_Stack_Transparent.png" alt="" width="375"><figcaption><p>We aim to develop open-source technology and practical solutions to connect jobseekers with opportunities. The foundation of our work is a set of inclusive livelihoods taxonomies upon which partners can build applications that empower jobseekers.</p></figcaption></figure>
 
-## Our Mission
+## Our Vision
 
 Tabiya is a research organization that develops open-source technology and practical solutions to connect jobseekers with opportunities. Our vision is one of inclusive labor markets that empower people by recognizing their formal and informal skills.&#x20;
 
-> Tabiya, fom Arabic طبيعة “essence”, is a chess opening position that serves as the starting point for many possible subsequent moves. It alludes to the starting point from which jobseekers may navigate the many different paths through labor markets. It may also be translated as “talent”, alluding to the human capital that young people are looking to build, protect, and utilize.
+> Tabiya, from Arabic طبيعة “essence”, is a chess opening position that serves as the starting point for many possible subsequent moves. It alludes to the starting point from which jobseekers may navigate the many different paths through labor markets. It may also be translated as “talent”, alluding to the human capital that young people are looking to build, protect, and utilize.
 
 Our objective is to create software, models, and standards that help governments, nonprofits, grassroots organizations, education and training providers, and employers in low- and middle-income countries (LMICs) harness the promise of data and AI to create more equitable and more efficient labor markets while navigating the global challenges of digitalization and decarbonization.&#x20;
-
-We do not aim to deploy these technologies directly, but act as a convening and incubation platform for other partners.
 
 ### Our Guiding Principles
 
@@ -52,7 +50,7 @@ So what rationale is there to intervene in the free labor market and support job
 
 One important argument are equity concerns: We know that in many contexts, existing networks play a large role in who gets the few jobs that might be available. Underserved communities without these networks might fall short. Innovative, tech enabled solutions could, in theory, improve inclusion of these underserved groups if they provide information in a more equitable way. It remains, however, a question to what extend such platforms can truly improve economic inclusion for underserved groups. Not everyone has access to smartphones, the internet, or the necessary digital literacy to utilize these platforms effectively.&#x20;
 
-A second argument might be that reducing information frictions can improve the reallocation of workers across sectors and space -- for example in contexts with rapidly changing demand in specific sectors. For example, the Ethiopian Investment Commission (EIC) – the Ethiopian government's investment promotion agency – worked with partners to set up a centralised sector-specific labor market information system to match a large supply of workers with specific jobs in the country's industrial parks.&#x20;
+A second argument might be that reducing information frictions can improve the reallocation of workers across sectors and space -- for example in contexts with rapidly changing demand in specific sectors. For example, the Ethiopian Investment Commission (EIC) – the Ethiopian government's investment promotion agency – worked with partners to set up a centralized sector-specific labor market information system to match a large supply of workers with specific jobs in the country's industrial parks.&#x20;
 
 </details>
 
