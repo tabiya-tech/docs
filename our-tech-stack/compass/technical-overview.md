@@ -2,9 +2,9 @@
 
 ### AI Architecture
 
-Compass utilizes agentic workflows to interact with users, gather information, and identify their skills.&#x20;
+Compass utilizes agentic workflows to interact with users, gather information, and identify their skills.
 
-Compass mimics how a human would approach a conversation and the resulting tasks, acting as an overarching agent that decomposes into smaller agents, each with its own responsibilities and goals.&#x20;
+Compass mimics how a human would approach a conversation and the resulting tasks, acting as an overarching agent that decomposes into smaller agents, each with its own responsibilities and goals.
 
 Each agent within Compass has a specific responsibility and performs multiple tasks to achieve its goal. For example, an agent might converse with a user to collect specific information, process that information, and prepare it for use by another agent.
 
@@ -38,7 +38,7 @@ Compass is grounded and protected from hallucinations in multiple ways:
 * **State Guardrails**: Simple, rule-based decisions are made whenever possible, reducing reliance on the LLM and minimizing potential inaccuracies.
 * **Taxonomy Grounding**: By linking entities to a predefined occupations/skills taxonomy, Compass ensures that identified skills remain within a relevant and accurate domain.
 
-### Evaluation&#x20;
+### Evaluation
 
 For evaluating Compass, we followed the strategy outlined below:
 
@@ -61,7 +61,7 @@ Tabiya's inclusive taxonomy plays a central role in Compass. It grounds the LLMâ
 
 ### Technical Stack Overview <a href="#technical-stack-overview" id="technical-stack-overview"></a>
 
-* **Language Models and Embeddings**: Compass utilizes the `gemini-1.5-flash-001` model for its LLM capabilities and the `textembedding-gecko version 3` model for embeddings. The `gemini-1.5-pro-preview-0409` model is used for the LLM auto-evaluator. The Gemini model was chosen for its balanced performance across task accuracy, inference speed, rate availability, and cost.
+* **Language Models and Embeddings**: Compass utilizes the `gemini-2.0-flash-001` model for its LLM capabilities and the `text-embedding-005` model for embeddings. The `gemini-2.5-pro-preview-05-06` model is used for the LLM auto-evaluator. The Gemini model was chosen for its balanced performance across task accuracy, inference speed, rate availability, and cost.
 * **Backend Technologies**: Developed with `Python 3.11`, `FastAPI 0.111`, and `Pydantic 2.7` for a performant server-side environment. An asynchronous framework suited the use case well, as LLM inference endpoints can be slow. Python was chosen for its extensive AI/ML library support and because it made it easier to integrate ML scientists into the development team.
 * **Frontend Technologies**: The UI, built with `React.js 19`, `TypeScript 5`, and `Material UI 5`, is optimized for mobile but performs well on tablets and desktops. Additionally, we use `Storybook 8.1` to showcase, visually inspect, and test UI components in isolation.
 * **Data Persistence**: Data is securely stored using `MongoDB Atlas`, which includes vector search capabilities. Our team was already familiar with `MongoDB`, and the taxonomy was already in `MongoDB Atlas`, so it was a natural choice.
