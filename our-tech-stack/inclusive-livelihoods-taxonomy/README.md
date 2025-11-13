@@ -75,7 +75,7 @@ A well-structured taxonomy provides a common language to categorize, interpret, 
 
 </details>
 
-With Tabiya's **Inclusive Livelihoods Taxonomy**, we aim provide a more inclusive map of the labor market – one that includes activities from the "unseen economy." A more inclusive map of the labor market will allow more inclusive matching, the identification of more diverse career and skill development pathways, and richer data analysis. [A more detailed description of our methodology can be found here](methodology.md) and our reference taxonomy can be accessed, adapted, and updated through our [Open Taxonomy Platform](open-taxonomy-platform.md).
+With Tabiya's **Inclusive Livelihoods Taxonomy**, we aim provide a more inclusive map of the labor market – one that includes activities from the "unseen economy." A more inclusive map of the labor market will allow more inclusive matching, the identification of more diverse career and skill development pathways, and richer data analysis. [A more detailed description of our methodology can be found here](methodology.md) and our reference taxonomy can be accessed, adapted, and updated through our [Open Taxonomy Platform](open-taxonomy-platform/).
 
 
 

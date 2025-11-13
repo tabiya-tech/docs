@@ -1,17 +1,6 @@
 ---
-icon: compass
 description: Unlock your potential, discover your skills
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: compass
 ---
 
 # Compass
@@ -25,7 +14,7 @@ Compass is an innovative, AI-powered chatbot designed to revolutionize the way a
 Compass is an open-source, conversational AI tool that:
 
 1. Engages in **natural dialogue to explore** your experience
-2. Analyzes a user's input to **identify and categorize skills** against localized [taxonomies](../inclusive-livelihoods-taxonomy/open-taxonomy-platform.md)
+2. Analyzes a user's input to **identify and categorize skills** against localized [taxonomies](../inclusive-livelihoods-taxonomy/open-taxonomy-platform/)
 3. Identifies **skills from both formal and informal work**
 4. Creates **a comprehensive skills profile** tailored to the user
 5. Generates a **professional customizable CV** highlighting one’s strengths
@@ -45,7 +34,7 @@ Compass breaks down barriers by offering an AI solution that's scalable, afforda
 
 ## Benefits of Compass
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><em><strong>For Partners</strong></em></td><td><ul><li><strong>Increase Efficiency:</strong> Simplify skills identification and job matching.</li></ul><ul><li><strong>Improve Outcomes:</strong> Enhance job placements and retention with suitable opportunities.</li></ul><ul><li><strong>Cost-Effective Scaling:</strong> Offer personalized guidance to more job seekers without extra staff and allow consellors to focus on advising jobseekers.</li></ul><ul><li><strong>Data-Informed Decisions:</strong> Use insights to tailor services and programs.</li></ul></td><td></td></tr><tr><td><em><strong>For Job Seekers</strong></em></td><td><ul><li><strong>Discover Potential:</strong> Identify and articulate hidden skills.</li></ul><ul><li><strong>Access Guidance:</strong> Benefit from AI-driven career advice with human expertise.</li></ul><ul><li><strong>Improved Matching:</strong> Find opportunities that fit unique skill sets.</li></ul><ul><li><strong>Career Development:</strong> Receive tailored recommendations for skill and career growth.</li></ul></td><td></td></tr><tr><td><p><em><strong>For Funders</strong></em></p><ul><li><strong>Scalable Impact:</strong> Reach thousands of job seekers efficiently with minimal cost increase.</li></ul><ul><li><strong>Data-Driven Insights:</strong> Provide valuable data on skills gaps and labor market trends to guide policies and programs.</li></ul><ul><li><strong>Promote Equity:</strong> Value skills from diverse backgrounds, including informal and unpaid work.</li></ul><ul><li><strong>Enhance Existing Programs:</strong> Strengthen current workforce development initiatives.</li></ul><ul><li><strong>Foster Innovation:</strong> Use the Tabiya ecosystem to encourage innovation and address social challenges.</li></ul></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><em><strong>For Partners</strong></em></td><td><ul><li><strong>Increase Efficiency:</strong> Simplify skills identification and job matching.</li><li><strong>Improve Outcomes:</strong> Enhance job placements and retention with suitable opportunities.</li><li><strong>Cost-Effective Scaling:</strong> Offer personalized guidance to more job seekers without extra staff and allow consellors to focus on advising jobseekers.</li><li><strong>Data-Informed Decisions:</strong> Use insights to tailor services and programs.</li></ul></td><td></td></tr><tr><td><em><strong>For Job Seekers</strong></em></td><td><ul><li><strong>Discover Potential:</strong> Identify and articulate hidden skills.</li><li><strong>Access Guidance:</strong> Benefit from AI-driven career advice with human expertise.</li><li><strong>Improved Matching:</strong> Find opportunities that fit unique skill sets.</li><li><strong>Career Development:</strong> Receive tailored recommendations for skill and career growth.</li></ul></td><td></td></tr><tr><td><p><em><strong>For Funders</strong></em></p><ul><li><strong>Scalable Impact:</strong> Reach thousands of job seekers efficiently with minimal cost increase.</li><li><strong>Data-Driven Insights:</strong> Provide valuable data on skills gaps and labor market trends to guide policies and programs.</li><li><strong>Promote Equity:</strong> Value skills from diverse backgrounds, including informal and unpaid work.</li><li><strong>Enhance Existing Programs:</strong> Strengthen current workforce development initiatives.</li><li><strong>Foster Innovation:</strong> Use the Tabiya ecosystem to encourage innovation and address social challenges.</li></ul></td><td></td><td></td></tr></tbody></table>
 
 ## Upcoming Features
 

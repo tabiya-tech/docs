@@ -2,7 +2,7 @@
 description: >-
   Labor markets are diverse and fast changing, so a useful taxonomy must be
   localizable and adaptable in a transparent way. Our open taxonomy platform
-  empower partners to do this.
+  empowers partners to do this.
 ---
 
 # Open Taxonomy Platform
@@ -16,7 +16,7 @@ We are currently developing the **Open Taxonomy Platform,** which lets partners 
 2. **Localization**\
    Partners create “forks” or branches of the base taxonomy to adapt local job titles, language requirements, or cultural specifics—without losing the broader structure. This means a localized taxonomy can still talk “under the hood” to other regions.
 3. **API Access**\
-   A simple REST API (with plans for GraphQL in the future) allows you to search, retrieve, and update taxonomy entries. Whether you’re building a job-matching platform or a chatbot, you can programmatically look up occupations, skills, tasks, or synonyms.
+   A simple REST API (with plans for GraphQL in the future) allows you to search, retrieve, and update taxonomy entries. Whether you’re building a job-matching platform or a chatbot, you can programmatically look up occupations, skills, tasks, or synonyms. An overview of the open taxonomy platform API is available [here](open-taxonomy-platform-api.md).
 4. **Version Control & Transparency**\
    Every revision is tracked, and older versions remain accessible. Anyone can see what changed, when, and why—a key requirement when multiple organizations or contributors collaborate over time.
 5. **Community Contributions**\
@@ -43,7 +43,7 @@ This taxonomy is best used for:&#x20;
 2. **Set Up the Platform Locally**\
    If you want to adapt or extend the taxonomy for your own region, clone the repo and follow the quick-start guide to run a local instance of our platform.
 3. **Use the API**\
-   Documentation on authentication, queries, and updates is available in our `/docs` folder on GitHub. You can also find sample scripts and postman collections that show how to retrieve occupations, look up skill definitions, and commit changes.
+   An overview of the Open Taxonomy Platform API is available [here](open-taxonomy-platform-api.md). Further documentation on authentication, queries, and updates is available in our `/docs` folder on GitHub. You can also find sample scripts and postman collections that show how to retrieve occupations, look up skill definitions, and commit changes.
 4. **Contribute**
    * **Issues and Pull Requests**: Found an occupation that needs local adaptation or noticed a skill that’s missing? Open an issue or submit a pull request on GitHub.
    * **Discussion & Feedback**: Join our community forum (link coming soon!) where practitioners and developers share best practices, tips, and localized expansions.

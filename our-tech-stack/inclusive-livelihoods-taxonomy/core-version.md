@@ -7,7 +7,7 @@ description: >-
 
 # Core Taxonomy
 
-Our [Inclusive Livelihoods Taxonomy](./) introduces important changes to [ESCO](https://esco.ec.europa.eu/en) to better reflect the livelihoods and economic realities in low- and middle-income countries. This page presents our **standardized Core version, which is not country-specific.** We use our [Taxonomy Management Platform](open-taxonomy-platform.md)  to manage and maintain various adapted and country-specific versions.
+Our [Inclusive Livelihoods Taxonomy](./) introduces important changes to [ESCO](https://esco.ec.europa.eu/en) to better reflect the livelihoods and economic realities in low- and middle-income countries. This page presents our **standardized Core version, which is not country-specific.** We use our [Taxonomy Management Platform](open-taxonomy-platform/)  to manage and maintain various adapted and country-specific versions.
 
 {% hint style="info" %}
 The Core version of our taxonomy is continuously evolving. Regular updates integrate feedback, corrections, and new insights from our partners to better represent diverse economic activities.
