@@ -18,7 +18,7 @@ The tool is intended for specialists in workforce analytics, recruitment technol
 
 ### Related research
 
-Our Livelihoods Classifier's design and evaluation follow the methodology presented in Saroglou, S., Diamantaras, K., Preta, F., Delianidi, M., Benisis, A. & Meyer, C.J. (2025). Enhancing Job Matching: Occupation, Skill and Qualification Linking with the ESCO and EQF taxonomies. _arXiv preprint arXiv:2512.03195_. [https://arxiv.org/abs/2512.03195](https://arxiv.org/abs/2512.03195).
+Our Livelihoods Classifier's design and evaluation is presented in Saroglou, S., Diamantaras, K., Preta, F., Delianidi, M., Benisis, A. & Meyer, C.J. (2025). Enhancing Job Matching: Occupation, Skill and Qualification Linking with the ESCO and EQF taxonomies. _arXiv preprint arXiv:2512.03195_. [https://arxiv.org/abs/2512.03195](https://arxiv.org/abs/2512.03195).
 
 {% hint style="info" %}
 You can find all related code on [Tabiya's GitHub page](https://github.com/tabiya-tech/tabiya-livelihoods-classifier/tree/main).
