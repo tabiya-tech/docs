@@ -9,17 +9,22 @@ description: >-
 
 ## Overview and Format
 
-The [Open Taxonomy Platform](./) API provides secure access to taxonomy models, occupations, skills, and their respective groups, enabling seamless integration with your applications. The base URL for all API requests is [https://platform.tabiya.tech/taxonomy/api-doc/swagger/](https://platform.tabiya.tech/taxonomy/api-doc/swagger/). To ensure standardized communication, all requests and responses (except file uploads) utilize the JSON format, making it straightforward to integrate with any modern programming environment.
+The [Open Taxonomy Platform](./) API provides secure access to taxonomy models, occupations, skills, and their respective groups, enabling seamless integration with your applications. The base URL for all API requests is [https://taxonomy.tabiya.tech/taxonomy/api-doc/swagger/](https://taxonomy.tabiya.tech/api-doc/swagger/). To ensure standardized communication, all requests and responses (except file uploads) utilize the JSON format, making it straightforward to integrate with any modern programming environment.
 
 ## Credentials and Authentication
 
-Before integration, developers must obtain the necessary credentials. An API key can be requested by contacting the admins via email at the dedicated address. Once issued, the API key must be included in every request sent to the API.
+Before integration, developers must obtain the necessary credentials.&#x20;
+
+We provide two ways of authentication.
+
+1. **API Keys:** An API key can be requested by contacting the admins via email at the dedicated address. Once issued, the API key must be included in every request sent to the API via the header `X-API-Key`.
+2. **Machine to Machine OAuth 2.0:** Same as the API Keys, you need to reach out to admins for the required `authorization server url` , `client id` and `client secret`&#x20;
 
 ## Direct Access to the OpenAPI Specification
 
 Two access methods are available for the API specifications. The primary method is through the interactive Swagger UI documentation, which allows browsing and live testing of all endpoints. Crucially, for developers looking to quickly configure their clients, a direct, standalone link to the OpenAPI v3 JSON specification file is provided. This link is essential for developers who want to import the entire API definition into tools like Postman or Insomnia (using the _Import > Link option_), accelerating setup by automatically generating all endpoint, parameter, and schema definitions:
 
-* OpenAPI Specification link: [https://platform.tabiya.tech/taxonomy/api-doc/swagger/tabiya-api.json](https://platform.tabiya.tech/taxonomy/api-doc/swagger/tabiya-api.json)
-* Swagger UI link: [https://platform.tabiya.tech/taxonomy/api-doc/swagger/](https://platform.tabiya.tech/taxonomy/api-doc/swagger/)
-* ReDoc UI link: [https://platform.tabiya.tech/taxonomy/api-doc/redoc/](https://platform.tabiya.tech/taxonomy/api-doc/redoc/)
+* OpenAPI Specification link: [https://taxonomy.tabiya.tech/api-doc/swagger/tabiya-api.json](https://taxonomy.tabiya.tech/api-doc/swagger/tabiya-api.json)
+* Swagger UI link: [https://taxonomy.tabiya.tech/api-doc/swagger/](https://taxonomy.tabiya.tech/api-doc/swagger/)
+* ReDoc UI link: [https://taxonomy.tabiya.tech/api-doc/redoc/](https://taxonomy.tabiya.tech/api-doc/redoc/)
 
