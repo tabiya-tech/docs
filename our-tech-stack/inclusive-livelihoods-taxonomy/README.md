@@ -14,7 +14,7 @@ Human capital—the collective skills, knowledge, and experiences of individuals
 
 The motivation for our work is described well by a quote from one our key partners, [Harambee Youth Employment Accelerator](https://www.harambee.co.za):
 
-> _<mark style="color:orange;">Young people in South Africa often lack the resources, networks, education and work experiences needed to be considered for formal employment. But, in the past 12 years, our work at Harambee has taught us that young people have the potential to perform in these jobs if we give them a chance! What if a young person was better able to identify and articulate the skills they have gained outside of the formal economy? What if they could signal skills gained from unpaid work?</mark>_
+> _<mark style="color:$info;">Young people in South Africa often lack the resources, networks, education and work experiences needed to be considered for formal employment. But, in the past 12 years, our work at Harambee has taught us that young people have the potential to perform in these jobs if we give them a chance! What if a young person was better able to identify and articulate the skills they have gained outside of the formal economy? What if they could signal skills gained from unpaid work?</mark>_
 >
 > _**Harambee Youth Employment Accelerator, South Africa**_
 
