@@ -13,12 +13,85 @@ The [Open Taxonomy Platform](./) API provides secure access to taxonomy models, 
 
 ## Credentials and Authentication
 
-Before integration, developers must obtain the necessary credentials.&#x20;
+#### Prerequisites
 
-We provide two ways of authentication.
+Before you can integrate with the APIs, you must obtain credentials from the platform administrators. **Request credentials** via the dedicated email address on this [page](https://docs.tabiya.org/#discover-tabiyas-work). Depending on the authentication method you choose, you will receive:&#x20;
 
-1. **API Keys:** An API key can be requested by contacting the admins via email at the dedicated address. Once issued, the API key must be included in every request sent to the API via the header `X-API-Key`.
-2. **Machine to Machine OAuth 2.0:** Same as the API Keys, you need to reach out to admins for the required `authorization server url` , `client id` and `client secret`&#x20;
+* **API Keys**: A unique `X-API-Key`&#x20;
+* **M2M OAuth:** An `Authorization server URL`, `Client ID`, and `Client Secret`
+
+#### API Path Prefixes
+
+All partner APIs use the following path prefix:
+
+* `/api/partner`  for API Keys
+* `/api/app`  For JWT Tokens received via M2M OAuth.
+
+#### Authentication Methods
+
+We support two authentication methods. Choose the one that aligns with your security requirements.
+
+#### API Keys
+
+API Keys provide a simple authentication mechanism suitable for basic integrations.
+
+**Usage**
+
+Include the API key in every request using the `X-API-Key` HTTP header.
+
+**Example:-**
+
+```bash
+curl -X GET \
+  https://taxonomy.tabiya.tech/api/partner/info \
+  -H "X-API-Key: YOUR_API_KEY"
+```
+
+#### Machine to Machine (M2M) OAuth 2.0
+
+Machine to Machine OAuth 2.0 is the recommended method for secure, automated service-to-service communication using short-lived access tokens
+
+**Step 1**
+
+Send an HTTP `POST` request to the **Authorization server URL** using the `Client ID` and `Client Secret`.
+
+**Example**
+
+```bash
+curl -X POST YOUR_AUTHORIZATION_SERVER_URL \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=client_credentials&client_id=YOUR_CLIENT_ID&client_secret=YOUR_CLIENT_SECRET"
+```
+
+The authorization server responds with an access token:
+
+```json
+{
+   "access_token": "YOUR_ACCESS_TOKEN",
+   "token_type": "Bearer",
+   "expires_in": 3600
+}
+```
+
+For more information refer to the Auth token documentation on the part of exchanging client credentials for [access token](https://oauth.net/2/access-tokens/).
+
+* [https://docs.aws.amazon.com/cognito/latest/developerguide/token-endpoint.html#post-token-positive-exchanging-client-credentials-for-an-access-token-in-request-body](https://docs.aws.amazon.com/cognito/latest/developerguide/token-endpoint.html#post-token-positive-exchanging-client-credentials-for-an-access-token-in-request-body)
+
+
+
+**Step 2**
+
+Send a request to the API with the access token from the previous result.
+
+```bash
+curl -X GET \
+   https://taxonomy.tabiya.tech/api/app/info \
+   -H "Authorization: Bearer YOUR_ACCESS_TOKEN"
+```
+
+For more details, see the [Scopes, M2M, and resource servers](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-define-resource-servers.html) documentation on AWS.
+
+
 
 ## Direct Access to the OpenAPI Specification
 
