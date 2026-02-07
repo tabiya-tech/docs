@@ -33,6 +33,7 @@
   * [Contributing Guide](our-tech-stack/livelihoods-classifier/contributing-guide.md)
   * [FAQs](our-tech-stack/livelihoods-classifier/faqs.md)
   * [Demo Video](https://youtu.be/a81HVCF56Io)
+  * [Research paper](https://arxiv.org/html/2512.03195v1)
 * [Compass](our-tech-stack/compass/README.md)
   * [Technical Overview](our-tech-stack/compass/technical-overview/README.md)
     * [Compass API](our-tech-stack/compass/technical-overview/compass-api.md)
