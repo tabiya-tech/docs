@@ -1,9 +1,9 @@
 ---
-icon: users-viewfinder
 description: >-
   Youth employment in low- and middle-income countries is in crisis, with rapid
   population growth outpacing job creation, leaving millions unemployed or
   trapped in informal, low-quality work.
+icon: users-viewfinder
 ---
 
 # The Global Youth Employment Challenge
@@ -50,8 +50,7 @@ In many LMICs, regulatory constraints and weak business climates impede job crea
 {% endstep %}
 {% endstepper %}
 
-**Rapid technological change and subsequent labor demand shifts.** The [Future of Jobs Report 2025](#user-content-fn-17)[^17] projects that, in the next 5 years, 170 million jobs will be created while 92 million jobs are displaced, constituting a structural labor market churn of 22% of the 1.2 billion formal jobs in the dataset being studied. This pace of technological change may worsen the skills mismatches and access to opportunities mentioned above as traditional education systems struggle to keep up with rapidly evolving labor demand, a much larger concern for resource- and budget-constrained LMIC institutions than for those more proximate to the global technological frontier driving these changes. \
-
+**Rapid technological change and subsequent labor demand shifts.** The [Future of Jobs Report 2025](#user-content-fn-17)[^17] projects that, in the next 5 years, 170 million jobs will be created while 92 million jobs are displaced, constituting a structural labor market churn of 22% of the 1.2 billion formal jobs in the dataset being studied. This pace of technological change may worsen the skills mismatches and access to opportunities mentioned above as traditional education systems struggle to keep up with rapidly evolving labor demand, a much larger concern for resource- and budget-constrained LMIC institutions than for those more proximate to the global technological frontier driving these changes. <br>
 
 [^1]: International Labour Organization. (2024). _Global Employment Trends for Youth 2024 | International Labour Organization_. [https://www.ilo.org/publications/major-publications/global-employment-trends-youth-2024](https://www.ilo.org/publications/major-publications/global-employment-trends-youth-2024)
 

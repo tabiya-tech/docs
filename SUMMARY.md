@@ -39,4 +39,5 @@
     * [Compass API](our-tech-stack/compass/technical-overview/compass-api.md)
   * [UX Evaluation](our-tech-stack/compass/ux-evaluation/README.md)
     * [UX Testing Discussion Guide](our-tech-stack/compass/ux-evaluation/ux-testing-discussion-guide.md)
+  * [Compass Customization Guide](our-tech-stack/compass/compass-customization-guide.md)
   * [Roadmap](our-tech-stack/compass/roadmap.md)
