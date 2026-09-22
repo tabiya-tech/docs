@@ -44,7 +44,7 @@ This version builds on [ESCO v1.1.1](https://esco.ec.europa.eu/en/about-esco/esc
 
 Our taxonomy is distributed in a CSV (Comma-Separated Values) format, ensuring ease of use, integration, and compatibility with existing ESCO-based systems.&#x20;
 
-[A Zip file with all CSV files of Version 1.0.0 can be downloaded here.](https://platform.tabiya.tech/downloads/673b3fc9b52651611ad13a80-export-673b41d2b52651611ad13be4.zip)
+[A Zip file with all CSV files of Version 1.0.0 can be downloaded here.](https://taxonomy.tabiya.tech/downloads/673b3fc9b52651611ad13a80-export-673b41d2b52651611ad13be4.zip)
 
 #### Structure of the CSV Format:
 
